@@ -1,7 +1,7 @@
 [![MasterHead](https://codecondo.com/wp-content/uploads/2017/09/how-to-be-a-full-stack-developer.jpg)]
 <h1 align="center">Hi 👋, I'm Asish Kumar Sahu</h1>
 <h3 align="center">A Passionate FullStack Developer</h3>
-<img align=right alt="Coding" width="400" src="https://simpleprogrammer.com/wp-content/uploads/2019/04/programmer-hero.png" />
+<img align=right alt="Coding" width="300" src="https://simpleprogrammer.com/wp-content/uploads/2019/04/programmer-hero.png" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asish0sahu&label=Profile%20views&color=0e75b6&style=flat" alt="asish0sahu" /> </p>
 
