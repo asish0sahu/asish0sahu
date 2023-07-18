@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asish0sahu&label=Profile%20views&color=0e75b6&style=flat" alt="asish0sahu" /> </p>
 
-- 🔭 I’m currently working on **Cloning (React JS)**
+- 🔭 I’m currently working on **React Js projects with Redux Tool kit**
 
-- 🌱 I’m currently learning **MERN Specialization**
+- 🌱 I’m currently learning **MERN Specialization(Front-End Developer)**
 
 - 🤝 I’m looking for help with **brilliant tech giants**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **asish0sahu84@gmail.com**
 
-- ⚡ Fun fact **We are not just coding ,Debuging code also**
+- ⚡ Fun fact **We are not just coding,Debugging code also**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
