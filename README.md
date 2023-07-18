@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **asish0sahu84@gmail.com**
 
-- ⚡ Fun fact **We are not just coding,Debugging code also**
+- ⚡ Fun fact **We are not just coding, Debugging code also**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
