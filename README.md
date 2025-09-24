@@ -5,22 +5,26 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asish0sahu&label=Profile%20views&color=0e75b6&style=flat" alt="asish0sahu" /> </p>
 
-- 🔭 I’m currently working on **React Js projects with Redux Tool kit**
+🚀 MERN Stack Developer with 3+ years of experience building scalable and responsive web applications.
 
-- 🌱 I’m currently learning **MERN Specialization(Front-End Developer)**
+💡 Skilled in React.js, Node.js, Express.js, MongoDB, MySQL, PostgreSQL, and TypeScript.
 
-- 🤝 I’m looking for help with **brilliant tech giants**
+🔒 Experienced in implementing JWT authentication, RBAC, and secure APIs with Node.js & Express.js.
 
-- 💬 Ask me about **Web Development**
+⚡ Improved performance in past projects by optimizing queries, reducing load time, and implementing code-splitting.
 
-- 📫 How to reach me **asish0sahu84@gmail.com**
+🎨 Passionate about creating intuitive UI/UX using React.js, Tailwind CSS, and Material UI.
 
-- ⚡ Fun fact **We are not just coding, Debugging code also**
+🛠️ Hands-on with REST APIs, Agile development, CI/CD pipelines, Docker, AWS, and Postman.
+
+🌱 Currently exploring Next.js, GraphQL, Kubernetes, and cloud platforms (AWS/GCP).
+
+🤝 Open to collaborations on open-source projects, full-stack applications, and performance optimization challenges.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/asishku25514721" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asishku25514721" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/asish-kumar-sahu-54358a126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/asish-kumar-sahu-54358a126" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/asishkumarsahu/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/asishkumarsahu/" height="30" width="40" /></a>
 <a href="https://fb.com/http://www.facebook.com/akash.kumarsahu.355" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="http://www.facebook.com/akash.kumarsahu.355" height="30" width="40" /></a>
 </p>
 
